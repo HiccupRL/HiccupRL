@@ -1,4 +1,4 @@
-# Hi, I'm Zeyuan，interested in Reinforcement Learning and Generative Models. 
+Hi, I'm Zeyuan，interested in Reinforcement Learning and Generative Models. 
 
 <picture>
   <source
